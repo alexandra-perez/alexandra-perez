@@ -1,10 +1,12 @@
 # Hi, I'm Alex 👋
 NYC-Based Full Stack Dev
 
+
 Aspiring UX Engineer
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandra-perez&show_icons=true&theme=cobalt)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alexandra-perez&theme=default)](https://git.io/streak-stats)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
