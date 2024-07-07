@@ -1,16 +1,15 @@
 # Hi, I'm Alex 👋
 NYC-Based Full Stack Dev
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandra-perez&show_icons=true&theme=cobalt)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandra-perez&show_icons=true&theme=chartreuse-dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alexandra-perez&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alexandra-perez&theme=dark)](https://git.io/streak-stats)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,express,js,html,css,sass)](https://skillicons.dev)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vscode)
 
-## Connect With Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandraperezny@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ap-alexandraperez/)
+## Let's Connect
+[![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:alexandraperezny@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ap-alexandraperez/)
