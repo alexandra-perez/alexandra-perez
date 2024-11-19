@@ -1,4 +1,4 @@
-Alexandra Perez
+# Alexandra Perez
 
 NYC-Based Full Stack Developer & Data Analyst
 
