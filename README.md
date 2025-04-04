@@ -1,6 +1,6 @@
 # Alexandra Perez
 
-NYC-Based Full Stack Developer & Data Analyst
+Analyst & Web Developer
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=react,vite,express,js,html,css,sass)](https://skillicons.dev)
