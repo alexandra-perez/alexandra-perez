@@ -1,7 +1,5 @@
 # Alexandra Perez
 
-Analyst & Web Developer
-
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=react,vite,express,js,html,css,sass)](https://skillicons.dev)
 
